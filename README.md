@@ -1,2 +1,2 @@
-# LG_vortexes_beams
-Matlab implementations of Laguerre-Gaussian Vortex Beams
+# LG Vortex Beams
+This repository contains Matlab implementations of mathematical descroption of Laguerre-Gaussian Vortex Beams.
